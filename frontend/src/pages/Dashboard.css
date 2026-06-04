@@ -1,0 +1,33 @@
+.dashboard-header {
+  margin-bottom: 30px;
+}
+
+.dashboard-header h1 {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.user-role {
+  font-size: 16px;
+  color: #666;
+}
+
+.dashboard-info {
+  margin-top: 30px;
+}
+
+.dashboard-info h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.dashboard-info ul {
+  list-style-position: inside;
+  line-height: 1.8;
+}
+
+.dashboard-info li {
+  color: #555;
+  margin-bottom: 8px;
+}
